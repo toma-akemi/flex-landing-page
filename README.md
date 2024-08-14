@@ -1,0 +1,1 @@
+Landing page project with CSS, HTML and Flexbox knowledge from Odin
