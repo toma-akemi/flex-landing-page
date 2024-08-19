@@ -110,12 +110,33 @@ a:hover {
 .img-card {
     border: 2px #E94D34 solid;
     border-radius: 4px;
-    background-image: url("pexels-satoshi-1979828.jpg");
-    background-size: cover;
-    background-position: center;
     height: 150px;
     width: 150px;
     margin-bottom: 0.5em;
+}
+
+.card1 {
+    background-image: url("pexels-dsd-143941-1822605.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.card2 {
+    background-image: url("pexels-pixabay-259772.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.card3 {
+    background-image: url("pexels-pixabay-161251.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.card4 {
+    background-image: url("yusheng-deng-LLZrqYYIzn0-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
 }
 
 .title {
@@ -144,7 +165,9 @@ a:hover {
 .quote {
     font-size: 2em;
     margin-bottom: 1em;
-    font-weight: 100;
+    font-weight: lighter;
+    font-style: italic;
+    line-height: 1.5em;
 }
 
 .author, .cta-h {
